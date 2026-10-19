@@ -22,6 +22,15 @@ That's the whole idea. The sophistication comes from the loop, the message histo
 
 ---
 
+## Get the code
+
+```bash
+git clone https://github.com/CodesmithLLC/build-your-first-agent.git
+cd build-your-first-agent
+```
+
+No git? Click the green **Code** button on GitHub, choose **Download ZIP**, and unzip it.
+
 ## Before you start
 
 You need two things: the Bun runtime and an OpenRouter API key. Both are free. If you did the pre-workshop setup, skip to Part 1. If not, open [`00-setup/README.md`](00-setup/README.md) now. It takes about five minutes.
